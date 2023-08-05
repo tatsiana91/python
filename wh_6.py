@@ -11,6 +11,8 @@ for i in range(1,n+1):
     list.append(a1+d*(i-1))
     print(list)
     
+
+
 """
 Определить индексы элементов массива (списка), 
 значения которых принадлежат заданному диапазону
@@ -36,4 +38,7 @@ for i in range (len(data_list)):
         index.append(i)
 print(index)
 """
+
+
+    
 
